@@ -1,5 +1,4 @@
-name: "productive-box"
-author: "maxam2017"
+name: Update gist
 description: "Are you an early 🐤 or a night 🦉? Let's check out in gist"
 branding:
   icon: "activity"
@@ -7,3 +6,5 @@ branding:
 runs:
   using: "node16"
   main: "dist/index.js"
+  GIST_ID: e5c2700e301923abad46a30a360c6b74
+          TIMEZONE: Asia/Seoul
